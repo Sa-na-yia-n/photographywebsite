@@ -34,4 +34,4 @@ Feel free to explore, contribute, and share your feedback. Let your photographs 
 
 For more details, contact [0705427496].
 
-Check out my live link (https://github.com/Davidle30/photosite.git) 
+Check out my live link (https://github.com/Sa-na-yia-n/photographywebsite.git) 
